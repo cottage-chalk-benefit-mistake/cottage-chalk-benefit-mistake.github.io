@@ -1,1 +1,1 @@
-You should probably fork this
+School assignment, nothing to see here :)
